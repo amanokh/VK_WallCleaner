@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VK Cleaner</string>
+    <string name="reposts">Репосты</string>
+    <string name="own">Свои записи</string>
+    <string name="alien">Записи друзей на стене</string>
+    <integer name="com_vk_sdk_AppId">6652234</integer>
+    <string name="title_activity_wall2">WallActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_pending">PendingActivity</string>
+    <string name="title_activity_web">WebActivity</string>
+    <string name="button_login"><u>Войти через браузер</u></string>
+    <string name="title_activity_loading">LoadingActivity</string>
+</resources>

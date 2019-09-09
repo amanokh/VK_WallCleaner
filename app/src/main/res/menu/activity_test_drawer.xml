@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:title="Выбор содержимого">
+        <menu>
+            <item
+                android:id="@+id/nav_wall"
+                android:icon="@drawable/ic_menu_wall"
+                android:title="Очистка стены" />
+
+        </menu>
+    </item>
+    <group>
+        <item
+            android:id="@+id/nav_help"
+            android:title="Канал в Telegram" />
+        <item
+            android:id="@+id/nav_send"
+            android:title="Написать автору" />
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Выйти" />
+    </group>
+
+</menu>
